@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Spyke2022
-- 👀 I’m interested in Python and Swfit
-- 🌱 I’m currently learning both languages
-- 💞️ I’m looking to collaborate on these languages
+- 👀 I’m interested in Python language
+- 🌱 I’m currently studing in IPOG- Instituto de Pos Graduação de Graduaçao de Goiania - Brasil -
+-  💞️ I’m looking to collaborate on these languages
 - 📫 How to reach me bibliografy and articles and tips of these languages
 
 <!---
